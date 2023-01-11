@@ -12,7 +12,7 @@ public class Ejemplo08 {
     }
 
     public static int misterio(int[] arreglo, int tamanio) {
-
+        
         if (tamanio == 1) {
             return arreglo[0];
         } else {
